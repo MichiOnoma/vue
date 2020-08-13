@@ -51,7 +51,7 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-   ['nuxt-canonical', { baseUrl: 'https://dev.ore-shika.com' }],
+   ['nuxt-canonical', { baseUrl: 'https://awesome-thompson-904ff4.netlify.app/' }],
   ],
   /*
   ** Build configuration

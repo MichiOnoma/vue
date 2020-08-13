@@ -23,6 +23,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+
     ]
   },
   /*
@@ -50,6 +51,7 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+   ['nuxt-canonical', { baseUrl: 'https://dev.ore-shika.com' }],
   ],
   /*
   ** Build configuration
